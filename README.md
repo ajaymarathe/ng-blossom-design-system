@@ -1,17 +1,21 @@
 # NG Blossom Design System
-NG Blossom Design System is open souce UI-KIT for Angular lovers based on Bootcatch Blossom Theme thanks :)
+NG Blossom Design System is is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
 [![NPM](https://img.shields.io/npm/v/ng-blossom-design-system.svg)](https://www.npmjs.com/package/ng-blossom-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-blossom-design-system.svg)](https://www.npmjs.com/package/ng-blossom-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 
+* [Documentation](#documentation)
 * [First-shot](#first-shot)
 * [Quick Start](#quick-start)
 * [Usage](#usage)
 * [About](#about)
 * [Author](#author)
 * [Copyright and License](#copyright-and-license)
+
+## Documentation
+The Documentation for NG-BLOSSOM DESIGN SYSTEM is hosted on [Bootcatch-Blog](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular).
 
 ## First Shot
 [![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/ng-uikit/ng-blossom.png)](http://preview.bootcatch.com/ng-blossom-design-system)
@@ -29,8 +33,8 @@ $ git clone https://github.com/ajaymarathe/ng-blossom-design-system.git
 
 ## Usage
 
-After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
-hope this will help you.
+After download you can simply import all your components in your `app.module.ts` and then you ready to use.
+- [Read Docs](http://blog.bootcatch.com/post/angular-components-based-design-system-is-based-on-bootcatch-themes-and-angular)
 
 ## About
 
