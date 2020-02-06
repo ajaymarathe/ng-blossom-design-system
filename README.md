@@ -44,8 +44,8 @@ So download and use for your next project, thanks.
 
 All the free ui-kit & templateS on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/ng-blossom-design-system
-* http://bootcatch.com/ui_kits
+* [Preview](http://preview.bootcatch.com/ng-blossom-design-system)
+* [UI-KIT](http://bootcatch.com/ui_kits)
 
 Fully coded UI-kits based on Bootstrap, Angular, Vue, React, Html, Sass.
 
